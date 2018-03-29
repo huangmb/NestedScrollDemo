@@ -17,9 +17,6 @@ buildscript {
 
 allprojects {
     repositories {
-        maven {
-            url "http://115.28.88.217/repository/aliyunspring/"
-        }
         google()
         jcenter()
     }
